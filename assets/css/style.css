@@ -1,0 +1,14 @@
+body {
+    background: url(../images/background.jpg);
+    background-size: 100% auto;
+}
+
+input {
+    height: 200px;
+    width: 200px;
+}
+
+.jumbotron {
+    background: url(../images/background.jpg);
+    background-size: 100%;
+}
